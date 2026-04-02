@@ -1,0 +1,13 @@
+.quarto-title-block {
+  position: relative;
+}
+
+.uab-banner {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+
+.uab-banner img {
+  height: 42px;
+}
